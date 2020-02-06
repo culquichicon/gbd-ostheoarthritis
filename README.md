@@ -4,5 +4,5 @@ This is the analysis conducted for the study entitled "Burden of Disease due to 
 
 ## codebook
 Find out the dataset and code here:
-- Dataset anonimyzed: [_db_osteoarthritis_] (https://github.com/culquichicon/gbd-ostheoarthritis/blob/master/db_osteoarthritis.xlsb)
+- Dataset anonimyzed: [_db_osteoarthritis_](https://github.com/culquichicon/gbd-ostheoarthritis/blob/master/db_osteoarthritis.xlsb)
 - Data analysis: [_da_osteoarthritis_](https://github.com/culquichicon/gbd-ostheoarthritis/blob/master/da_osteoarthritis.do)
