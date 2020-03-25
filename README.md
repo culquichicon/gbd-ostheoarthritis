@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/238759375.svg)](https://zenodo.org/badge/latestdoi/238759375)
+
 # Global burden of disease in ostheoarthritis - EsSalud 2016, Peru.
 ## overview
 This is the analysis conducted for the study entitled "Burden of Disease due to hip, knee, and unspecified osteoarthritis in the Peruvian social health insurance system (EsSalud), 2016".
